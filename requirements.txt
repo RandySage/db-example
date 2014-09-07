@@ -1,7 +1,5 @@
 MySQL-python
-SQLAlchemy==0.9.7
 ipython==2.2.0
-oursql==0.9.3.1
 
 ## The following requirements were added by pip --freeze:
 argparse==1.2.1
