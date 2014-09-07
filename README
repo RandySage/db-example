@@ -1,0 +1,5 @@
+virtualenv venv
+./venv/bin/pip install -r requirements.txt 
+
+If you add to the requirements.txt, you can regenerate it with:
+./venv/bin/pip freeze -r requirements.txt
