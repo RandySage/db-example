@@ -1,0 +1,2 @@
+SQLAlchemy==0.9.7
+ipython==2.2.0

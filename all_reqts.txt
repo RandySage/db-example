@@ -1,0 +1,6 @@
+SQLAlchemy==0.9.7
+argparse==1.2.1
+distribute==0.6.24
+ipython==2.2.0
+oursql==0.9.3.1
+wsgiref==0.1.2
