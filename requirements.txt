@@ -1,5 +1,5 @@
 MySQL-python
-ipython==2.2.0
+ipython==7.16.3
 
 ## The following requirements were added by pip --freeze:
 argparse==1.2.1
